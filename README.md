@@ -11,8 +11,8 @@ A gin-gonic http server sample
 ### Install dependencies & run sample
 
 ```bash
-$ git clone
-$ cd glide-deps-sample
+$ git clone https://github.com/DaemonGearIT/gin-sample
+$ cd gin-sample
 $ glide install
 $ go run main.go
 ```

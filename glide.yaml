@@ -1,3 +1,4 @@
 package: gin-sample
 import:
 - package: github.com/gin-gonic/gin
+- package: github.com/fatih/color
